@@ -1,0 +1,2 @@
+print("GoodBay World")
+print("GoodBay Tanya")
